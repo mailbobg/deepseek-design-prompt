@@ -138,9 +138,19 @@ This prompt was tested with an automotive SWP UI kit workflow. The skill was ins
 /Users/bobmax/Desktop/swp-ui-kit/.deepseek/skills/deepseek-design/SKILL.md
 ```
 
-Generated media prototype screenshot:
+Generated media prototype screenshots:
 
-![SWP media prototype generated with deepseek-design](./docs/assets/swp-media-prototype.png)
+| Now playing | Playback active |
+| --- | --- |
+| ![SWP media prototype now playing state](./docs/assets/swp-media-now-playing.png) | ![SWP media prototype playback active state](./docs/assets/swp-media-playing.png) |
+
+| Source picker | USB source |
+| --- | --- |
+| ![SWP media prototype source picker](./docs/assets/swp-media-source-picker.png) | ![SWP media prototype USB source state](./docs/assets/swp-media-usb-source.png) |
+
+| FM live source | Queue state |
+| --- | --- |
+| ![SWP media prototype FM live source state](./docs/assets/swp-media-fm-live.png) | ![SWP media prototype queue state](./docs/assets/swp-media-queue-state.png) |
 
 The prototype uses the SWP UI kit tokens and component vocabulary, including dark cockpit surfaces, RTOS status structure, sidebar navigation, media controls, source switching, queue views, and large automotive HMI hit targets.
 
