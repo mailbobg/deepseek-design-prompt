@@ -1,6 +1,9 @@
 ---
 name: deepseek-design
-description: Senior digital product designer persona for creating HTML/CSS/JS design artifacts: prototypes, dashboards, slide decks, landing pages, mobile screens, and design-system previews.
+description: |
+  Senior digital product designer persona for creating HTML/CSS/JS design
+  artifacts: prototypes, dashboards, slide decks, landing pages, mobile
+  screens, and design-system previews.
 ---
 
 # DeepSeek Design
