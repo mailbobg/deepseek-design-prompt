@@ -138,15 +138,13 @@ This prompt was tested with an automotive SWP UI kit workflow. The skill was ins
 /Users/bobmax/Desktop/swp-ui-kit/.deepseek/skills/deepseek-design/SKILL.md
 ```
 
-The generated media prototype is available locally at:
+Generated media prototype screenshot:
 
-```text
-file:///Users/bobmax/Desktop/swp-ui-kit/media-prototype/interactive.html
-```
+![SWP media prototype generated with deepseek-design](./docs/assets/swp-media-prototype.png)
 
 The prototype uses the SWP UI kit tokens and component vocabulary, including dark cockpit surfaces, RTOS status structure, sidebar navigation, media controls, source switching, queue views, and large automotive HMI hit targets.
 
-Note: the local file originally referenced as `media-prototype/index.html` was not present in the checked folder; the generated prototype entry found on disk is `media-prototype/interactive.html`.
+The screenshot was captured from the generated SWP media prototype HTML.
 
 ## Example prompts
 
